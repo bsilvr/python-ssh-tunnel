@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: ssh-tunnel
+Version: 0.1
+Summary: Library to create ssh remote tunnels
+Home-page: https://github.com/bsilvr/python-ssh-tunnel
+Author: Bruno Silva
+Author-email: brunomiguelsilva@ua.pt
+License: LICENSE
+Download-URL: https://github.com/bsilvr/python-ssh-tunnel/tarball/0.1
+Description: UNKNOWN
+Keywords: ssh,remote,tunnel
+Platform: UNKNOWN
